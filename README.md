@@ -69,7 +69,7 @@ Criamos uma Virtual Private Cloud (VPC) com duas subnets para segmentarmos os me
 
 ![WhatsApp Image 2024-11-25 at 09 13 49](https://github.com/user-attachments/assets/efbd2731-64a6-45fc-84d2-911eacc7955d)
 
-### Zabbix
+### Zabbix:
 
 - **URL de acesso**: [zabbix.abcplace.net.br/zabbix](http://zabbix.abcplace.net.br/zabbix)
 
@@ -77,7 +77,7 @@ Criamos uma Virtual Private Cloud (VPC) com duas subnets para segmentarmos os me
 
 ![WhatsApp Image 2024-11-25 at 09 13 47 (1)](https://github.com/user-attachments/assets/9129b5ef-e40b-4c08-be62-a6182b0f8348)
 
-### Wazuh
+### Wazuh:
 
 - **URL de acesso**: [dashboard.abcplace.net.br](http://dashboard.abcplace.net.br)
 
@@ -86,3 +86,9 @@ Criamos uma Virtual Private Cloud (VPC) com duas subnets para segmentarmos os me
 ![WhatsApp Image 2024-11-25 at 09 25 40 (1)](https://github.com/user-attachments/assets/237708bd-e2f1-47da-ad77-233d724f09cf)
 
 ![WhatsApp Image 2024-11-25 at 09 25 41](https://github.com/user-attachments/assets/ebaf2164-d8b0-498e-a7d4-2552d9476242)
+
+
+## Vídeo:
+
+
+
