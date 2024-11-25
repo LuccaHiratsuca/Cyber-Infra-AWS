@@ -90,6 +90,13 @@ Criamos uma Virtual Private Cloud (VPC) com duas subnets para segmentarmos os me
 
 ![WhatsApp Image 2024-11-25 at 09 25 41](https://github.com/user-attachments/assets/ebaf2164-d8b0-498e-a7d4-2552d9476242)
 
+### Terraform:
+O Terraform é uma ferramenta de infraestrutura como código (IaC) que permite automatizar a criação, modificação e destruição de recursos em provedores de nuvem ou outros serviços. Ele utiliza arquivos de configuração para descrever o estado desejado da infraestrutura, facilitando o gerenciamento e escalabilidade.
+
+- Arquivo de Configuração: `terraform.tf`
+  
+No arquivo `terraform.tf`, está contida a configuração principal que descreve os recursos e seus respectivos parâmetros. 
+
 
 ## Vídeo:
 
