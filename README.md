@@ -64,6 +64,7 @@ Criamos uma Virtual Private Cloud (VPC) com duas subnets para segmentarmos os me
 
 ### FastApi (Application):
 - Link do repositório: https://github.com/LuccaHiratsuca/App-Web-Cyber
+- Link do Swagger: [Clique aqui!](http://18.188.199.251:8000/docs#/default/read_items_items__get)
 
 ![WhatsApp Image 2024-11-25 at 09 13 48](https://github.com/user-attachments/assets/e24bb992-60c1-44c8-8223-a43a33989bec)
 
@@ -71,7 +72,7 @@ Criamos uma Virtual Private Cloud (VPC) com duas subnets para segmentarmos os me
 
 ### Zabbix:
 
-- **URL de acesso**: [zabbix.abcplace.net.br/zabbix](http://zabbix.abcplace.net.br/zabbix)
+- **URL de acesso**: [Clique aqui!](http://3.142.54.164/zabbix.php?action=dashboard.view&dashboardid=1)
 
 ![WhatsApp Image 2024-11-25 at 09 13 47](https://github.com/user-attachments/assets/66882596-e2e9-4aca-aed3-53f2841927d6)
 
@@ -79,7 +80,7 @@ Criamos uma Virtual Private Cloud (VPC) com duas subnets para segmentarmos os me
 
 ### Wazuh:
 
-- **URL de acesso**: [dashboard.abcplace.net.br](http://dashboard.abcplace.net.br)
+- **URL de acesso**: [Clique aqui!](https://18.190.28.9/app/endpoints-summary#/agents-preview/)
 
 ![WhatsApp Image 2024-11-25 at 09 25 40](https://github.com/user-attachments/assets/cade249e-741a-4fd5-af5f-6e3b8a2e7fe8)
 
