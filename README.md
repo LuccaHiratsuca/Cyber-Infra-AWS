@@ -93,5 +93,6 @@ Criamos uma Virtual Private Cloud (VPC) com duas subnets para segmentarmos os me
 
 ## Vídeo:
 
+[Confira nosso vídeo aqui!](https://drive.google.com/file/d/1wPDaufbb_p-wdrteiyam0XRto-q9yhYK/view?usp=sharing)
 
 
