@@ -13,6 +13,8 @@
 
 Falando um pouco sobre nossa infraestrutura:
 
+Todas as nossas máquinas utilizam a imagem Ubuntu 24 na AWS.
+
 Criamos uma Virtual Private Cloud (VPC) com duas subnets para segmentarmos os melhor nossos recursos para ter uma maior segurança da infraestrutura, sendo elas:
 
 - ## Sub-rede pública:
